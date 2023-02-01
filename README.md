@@ -5,7 +5,7 @@ ETL/ELT Testing and Data Quality Management
 
 ### 0. Introduction
 
-[Introduction](introduction.md)
+[Introduction](Introduction.md)
 
 Data Categories and Data Quality
 
